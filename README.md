@@ -1,7 +1,7 @@
 ### Hi 👋🏼
 
 
-I’m Xoch a Mexican girl who is passionate about designing and coding tools.
+I’m Xoch a girl who is passionate about designing and coding tools.
 <br>
 <br>
 
