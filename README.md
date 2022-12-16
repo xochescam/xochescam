@@ -1,17 +1,22 @@
-### Hi ✨
+### Hi 👋🏼
 
-<!--
 
 I’m Xoch a Mexican girl who is passionate about designing and coding tools.
+<br>
+<br>
+
 
 ⚡️ Lately, I've been working on my website design in Figma to code in NextJS
-🍎 Actually, I teach subjects in an University to future Software Engineers
+<br>
+👀 Actually, I teach subjects to future Software Engineers at a University.
+<br>
+<br>
 
-FF: I hate tomatoes but I love them in pasta 🍝
+You can send me a message by <a href="https://www.linkedin.com/in/xochescam/">LinkedIn</a> or xochissea@gmail.com
 
 
-Vue | React | NextJS | Sass | Tailwind | Figma | Information Architecture | Design Sprint | Design Thinking | Atomic Design | Laravel
 
--->
+
+
 
 
